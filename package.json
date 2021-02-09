@@ -14,7 +14,7 @@
         "cli",
         "tools"
     ],
-    "author": "kris.wu",
+    "author": "imwzx",
     "license": "ISC",
     "private": false,
     "dependencies": {
