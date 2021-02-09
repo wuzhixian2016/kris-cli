@@ -1,0 +1,7 @@
+{
+  "project": {
+    "name": "webpack-boilerplate",
+    "description": "基于webpack5的项目脚手架",
+    "repository": "https://github.com/taniarascia/webpack-boilerplate.git"
+  }
+}
